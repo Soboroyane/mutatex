@@ -4,3 +4,4 @@ mutant-file=individual_list.txt
 water=-CRYSTAL
 numberOfRuns=$NRUNS$
 complexWithDNA=true
+order=_USERDEFINED
